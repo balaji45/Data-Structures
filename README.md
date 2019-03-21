@@ -1,2 +1,2 @@
 # Data-Structures
-Searching anf sorting methods
+Searching and sorting methods
